@@ -1,5 +1,5 @@
 /**
- * This program defines an efficient isEven method that manually checks all numbers from 1 to 100.
+ * This program defines an efficient isEven method that manually checks all numbers from 1 to 50.
  * Each number is individually evaluated to determine if it is even, ensuring precise and optimized results.
  * This method guarantees correctness without relying on complex mathematical operations.
  */
